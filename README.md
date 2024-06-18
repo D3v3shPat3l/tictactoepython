@@ -34,3 +34,9 @@ Please make sure your code adheres to the coding standards and includes relevant
 
 ## Enjoy Playing the Tic Tac Toe Game!
 If you have any questions or feedback, feel free to open an issue or contact me. Happy coding!
+
+![image](https://github.com/D3v3shPat3l/tictactoepython/assets/171942470/82b932b4-d401-4f38-9aeb-897d301fa856)
+
+## Theme Switching:
+
+![image](https://github.com/D3v3shPat3l/tictactoepython/assets/171942470/e847d0d7-9f59-4366-8f1b-a13a446bc5da)
